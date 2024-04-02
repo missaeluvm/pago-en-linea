@@ -1,0 +1,11 @@
+@import "normalize.css";
+
+@import './inicio_sesion.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p{
+    @apply text-uvm-color-texto;
+}
